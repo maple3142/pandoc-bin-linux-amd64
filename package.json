@@ -1,8 +1,19 @@
 {
 	"name": "@maple3142/pandoc-bin-linux-amd64",
+	"description": "linux amd64 pandoc binary from https://github.com/jgm/pandoc/releases",
 	"version": "3.1.12.1",
 	"license": "MIT",
 	"bin": {
 		"pandoc": "pandoc"
+	},
+	"os": [
+		"linux"
+	],
+	"cpu": [
+		"amd64"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/maple3142/pandoc-bin-linux-amd64.git"
 	}
 }

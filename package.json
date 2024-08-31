@@ -1,7 +1,7 @@
 {
 	"name": "@maple3142/pandoc-bin-linux-amd64",
 	"description": "linux amd64 pandoc binary from https://github.com/jgm/pandoc/releases",
-	"version": "3.2.0",
+	"version": "3.3.0",
 	"license": "MIT",
 	"bin": {
 		"pandoc": "pandoc"
